@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.heading{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    height: 100px;
+}
+.logo-img{
+    height: 90px;
+    padding-left: 20px;
+}
+.heading-left{
+    padding-left: 20px;
+}
+.heading-right{
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.s-element{
+    color: rgb(5, 5, 5);
+    padding: 1S0px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+.home{
+    height: 85vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.home-left{
+    width: 50vw;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    padding-block: 50px;
+}
+.img{
+    height: 400px;
+}
+.home-right{
+    width: 50vw;
+    padding-right: 20px;
+}
+.services{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.logoimg{
+    height: 50px;
+    width: 50px;
+}
+.ser{
+    display: flex;
+    flex-direction: row;
+}
+.s_cod1{
+    padding: 25px;
+    margin:30px;
+    width:400px;
+    border:2px red solid;
+}
+.food-items{
+    color: brown;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin:15px
+}
+.items{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pxpx;
+    border: 2px red solid;
+    margin: 20px;
+}
+.logoimgg{
+    height: 400px;
+    width: 250px;
+    padding-left: 25px;
+    margin: 30px;
+}
+.v_item{
+    margin: 20px;
+}
+.conts{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    padding-left: 350px;
+}
+.cont{
+    color: darkgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.con{
+    margin:10px;
+    text-align: center;
+    padding-left: 100px;
+}
+.contacts{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
